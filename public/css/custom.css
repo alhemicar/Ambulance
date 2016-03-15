@@ -1,0 +1,15 @@
+.margin-bottom-20{
+    margin-bottom: 20px;
+}
+
+.custom-shadow{
+    box-shadow: 0 1px 20px rgba(0,0,0,0.1);
+}
+
+.headline{
+    float: none !important;
+}
+
+.error-content{
+    margin-left: 0 !important;
+}
